@@ -1,5 +1,4 @@
 body {
-  box-sizing: border-box;
   display: grid;
   place-items: center;
   height: 50vh;
